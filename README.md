@@ -1,6 +1,6 @@
 # noobabot
 ## What is noobabot?
-Noobabot is lunar bot, but limited. It is made in python!
+Noobabot is a program that can do things in roblox. It is like a a executor, but you only have one script and it isnt really doing any injecting...
 
 ## How long did this took you?
 Like 2 hours.
