@@ -16,7 +16,7 @@ focus_roblox()
 time.sleep(0.3)
 keyboard.press("/")
 keyboard.release("/")
-keyboard.write(".NOOBABOT BETA", delay=0.1)
+keyboard.write(".NOOBABOT", delay=0.1)
 keyboard.press("enter")
 keyboard.release("enter")
 #----------------------------------SHOW COMMANDS------------------------------------
