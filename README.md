@@ -1,5 +1,13 @@
 # noobabot
 ## NOTE: THIS IS IN BETA!
+
+## Run in idle
+
+## Requierments:
+### pygetwindow
+### keyboard
+
+
 ## What is noobabot?
 ### Noobabot is a program that can do things in roblox. It is like a a executor, but you only have one script and it isnt really doing any injecting...
 
@@ -9,6 +17,3 @@
 ## Are you new to this stuff?
 ### Yes.
 
-## Requierments:
-### pygetwindow
-### keyboard
